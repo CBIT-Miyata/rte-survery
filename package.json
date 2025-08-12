@@ -1,0 +1,49 @@
+{
+  "name": "rte-survery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^3.24.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@lexical/code": "^0.34.0",
+    "@lexical/history": "^0.34.0",
+    "@lexical/link": "^0.34.0",
+    "@lexical/react": "^0.34.0",
+    "@lexical/rich-text": "^0.34.0",
+    "@tinymce/tinymce-react": "^6.3.0",
+    "@tiptap/extension-image": "^3.0.9",
+    "@tiptap/extension-link": "^3.0.9",
+    "@tiptap/extension-text-align": "^3.0.9",
+    "@tiptap/react": "^3.0.9",
+    "@tiptap/starter-kit": "^3.0.9",
+    "framer-motion": "^12.23.12",
+    "lexical": "^0.34.0",
+    "next": "15.4.6",
+    "quill": "^2.0.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "slate": "^0.118.0",
+    "slate-dom": "^0.117.4",
+    "slate-react": "^0.117.4",
+    "tinymce": "^8.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.6",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
