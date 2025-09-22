@@ -21,7 +21,7 @@
     "@tiptap/extension-image": "^3.0.9",
     "@tiptap/extension-link": "^3.0.9",
     "@tiptap/extension-text-align": "^3.0.9",
-    "@tiptap/react": "^3.0.9",
+    "@tiptap/react": "^3.4.6",
     "@tiptap/starter-kit": "^3.0.9",
     "framer-motion": "^12.23.12",
     "lexical": "^0.34.0",
