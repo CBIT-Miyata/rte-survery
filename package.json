@@ -28,7 +28,7 @@
     "next": "15.4.6",
     "quill": "^2.0.3",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react-dom": "19.2.0",
     "slate": "^0.118.0",
     "slate-dom": "^0.117.4",
     "slate-react": "^0.117.4",
